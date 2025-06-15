@@ -22,6 +22,7 @@ Please try turning off tamper protection manually then running disable-defender.
     It gains TrustedInstaller permissions
     It will disable windefender services + smartscreen
     It will disable anti-tamper protection
+    It will handle WdFilter
     It will disable all relevant registries + wmi settings
 # this is based on defender-control by pgkt04? but what is different?
 unlike the original version, https://github.com/pgkt04/defender-control.
