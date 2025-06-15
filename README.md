@@ -8,7 +8,7 @@ Tested on Windows 10 22H2 & Windows 11 24H2.
 
 We all know that disabling WinDefend is very difficult since Microsoft is constantly enforcing changes.
 The first solution is to install an anti-virus - but thats not the point if we are trying to disable it!
-The second is blowing up Microsoft HQ.
+The second is blowing up Microsoft HQ, but this isn't cost effective and i don't like the feds.
 The easiest solution is to use freeware thats already available on the internet - but none of them are native & open source...
 I like open source, so I made a safe to use open source defender control.
 # Notes
